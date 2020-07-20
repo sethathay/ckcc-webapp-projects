@@ -1,0 +1,71 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body{
+	margin: 0px auto;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-size: center center;
+	background-attachment: fixed;
+	background-image: url(../img/livemore_bg.jpg);
+	background-repeat: no-repeat;
+}
+.mab-no{
+	margin: 0px;
+	padding: 0px;
+}
+.mab-border{
+	box-shadow: 0px 0px 0px 3px red;
+}
+img.img-responsive{
+	vertical-align: middle;
+	margin-left: 30%;
+}
+.mab-broad{
+	margin-top: 5%;
+	margin-bottom: 10px;
+	padding: 10px;
+	color: white;
+	background-color: #1EAF76;
+}
+.mab-bg{
+	padding: 30px 30px;
+	border: 4px solid #1EAF76;
+	background-color: white;
+}
+h2.mab-padding-margin{
+	margin:0px;
+	padding: 0px;
+	font-family: 'Freight Sans Bold', 
+	'lucida grande',tahoma,verdana,
+	arial,sans-serif !important;
+}
+.mab-btn{
+	margin-top: 10px;
+	width: 100%;
+	height: 50px;
+	outline: none;
+	border: none;
+	border-style: none;
+	color: white;
+	font-size: 18px;
+	font-family: 'Freight Sans Bold', 
+	'lucida grande',tahoma,verdana,
+	arial,sans-serif !important;
+	background-color: #1EAF76;
+}
+.mab-form{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 100%;
+	height: 40px;
+	border-style: none;
+	border-radius: 4px;
+	border: 1px solid #DDD;
+}

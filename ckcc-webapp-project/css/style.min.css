@@ -1,0 +1,160 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2{
+	font-family: 'Freight Sans Bold', 
+	'lucida grande',tahoma,verdana,
+	arial,sans-serif !important;
+}
+.mab-border{
+	box-shadow: 0px 0px 0px 1px red;
+}
+
+#mab-float-left{
+	float: left;
+	margin-left:15px;
+	border-style: none;
+	background-color: white;
+}
+#mab-float-left:hover{
+	background-color: ;
+}
+.container-fluid.mab-bg-image{
+	margin: 0px auto;
+	padding: 0px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-image: url(../img/livemore_bg.jpg);
+}
+.mab-toolbar{
+	margin: 0px;
+	margin-top: 15px;
+	padding: 10px;
+	width: 100%;
+}
+.mab-border-left{
+	border-left: 6px solid #DE0B6E;
+}
+.mab-blue{
+	background-color: #1EAF76;
+	color: white;
+}
+.mab-color-blue{
+	color: #1EAF76;
+}
+.bg-color-white{
+	padding: 10px;
+	border: 4px solid #1EAF76;
+	background-color: white;
+}
+img.mab-picture{
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+}
+.mab-btn-send{
+	margin: 0px;
+	margin-top: 45px;
+	padding: 0px;
+	width: 50%;
+	height: 40px;
+}
+.mab-btn-default{
+	background-color: #1EAF76;
+	outline: none;
+	border: 1px solid #1EAF76;
+	color: white;
+}
+.mab-btn-pos-center{
+	margin-left: 25%;
+	vertical-align: center;
+}
+.mab-text-center{
+	text-align: center;
+}
+.mab-text-blue{
+	color: #1EAF76;
+}
+.mab-text-upper{
+	text-transform: uppercase;
+}
+.mab-borad-logo{
+	width: 80%;
+	height: 80%;
+	background-color: #1EAF76;
+}
+.mab-no-margin-padding{
+	margin: 0px;
+	padding: 0px;
+}
+hr.mab-spectantor{
+	margin: 0px;
+	padding: 0px;
+	color: #1EAF76;
+	background-size: #1EAF76;
+	border: 20 solid #1EAF76;
+}
+.mab-border-top{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border-top: 4px solid #1EAF76;
+}
+.mab-border-top-bottom{
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+.mab-margin-bottom{
+	margin-bottom: 40px;
+}
+.mab-padding-80{
+	padding-bottom: 80px;
+}
+.container-fluid.mab-bg-image .container-fluid{
+	margin: 0px;
+	padding: 0px;
+}
+.col-md-2.mab-logo{
+	padding: 0px;
+}
+.navbar.navbar-default{
+	margin: 0px;
+	padding: 0px;
+	margin-top: 5%;
+	border-style: none;
+	background-color: #1EAF76;
+	border-radius: 0px;
+}
+.container-fluid>.collapse.navbar-collapse{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar.navbar-default .container-fluid .navbar-header{
+	margin: 0px;
+	padding: 0px;
+}
+.collapse.navbar-collapse, .nav.navbar-nav{
+	margin: 0px;
+	padding: 0px;
+}
+.navbar-default .navbar-nav .active a{
+	background-color: #1EAF76;
+}
+.navbar-default .navbar-nav .active a:hover{
+	background-color: #1EAF76;
+	color: blue;
+}
+ul.nav.navbar-nav li a{
+	color: white;
+}
+ul.nav.navbar-nav li a:hover{
+	color: blue;
+}
+.mab-lineheight .glyphicon{
+	line-height: 25px;
+	font-size: inherit;
+}
